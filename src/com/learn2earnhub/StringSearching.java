@@ -4,6 +4,7 @@ public class StringSearching {
 
     // M1 Commit in Master
     // M2 Commit in Master
+    // M3 commit in Master
     /**
      * indexOf() method implementation in JAVA.
      * Finds the first occurrence of pattern in str.
