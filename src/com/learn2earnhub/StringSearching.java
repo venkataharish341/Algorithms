@@ -2,6 +2,7 @@ package com.learn2earnhub;
 
 public class StringSearching {
 
+    // M1 Commit in Master
     /**
      * indexOf() method implementation in JAVA.
      * Finds the first occurrence of pattern in str.
